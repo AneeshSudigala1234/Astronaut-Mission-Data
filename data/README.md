@@ -1,3 +1,0 @@
-# Data
-
-This folder contains the data for this project.
