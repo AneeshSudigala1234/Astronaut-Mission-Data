@@ -6,7 +6,7 @@
 
 It contains the [Raw Data](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/Data/raw_data.csv) and the [Archive](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/Data/final_data.csv) of data that was created by manipulating the raw data using Python. 
 
-This repository also includes the [Python Notebook](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/processdocumentation.ipynb) that documents the process for crafting the archive of data from the raw data.
+This repository also includes the [Python Notebook](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/processdocumentation.ipynb) that can be used to replicate the archive. That file documents the process for crafting the archive of data from the raw data.
 
 ### **Purpose**
 
