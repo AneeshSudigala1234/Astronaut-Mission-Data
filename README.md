@@ -35,5 +35,11 @@ This data is from the [CORGIS Dataset Project](https://corgis-edu.github.io/corg
 - **Application Development**: Perfect for developers that want to build tools or visualizations that are related to missions.  
 - **Data Analysis Projects**: Excellent for practicing Data Analysis, Machine Learning, or Data Visualization.
 
+### **Contributors**
+
+Aneesh Sudigala maintains this repository.
+
+This repostitory is open to contributors.
+
 
 
