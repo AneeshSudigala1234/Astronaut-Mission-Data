@@ -6,7 +6,19 @@ It contains the raw data and the archive of data that was created by manipulatin
 
 ### **The Purpose Of This Repository**
 
-This repository provides a comprehensive archive that has information about astronauts and the missions they went on. It includes information such as demographics of the astronauts and information about each mission. Whether you're conducting research, creating visualizations, or developing tools for Space Exploration, this archive serves as a valuable resource.
+This repository provides a comprehensive archive that has information about astronauts and the missions they went on.
+
+Information Included:
+
+- Name
+- Gender
+- Birth Year
+- Nationality
+- Mission Count
+- Mission Name
+- Mission Role
+- Mission Year
+- Mission Duration
 
 ### **Where This Data Is From**
 
