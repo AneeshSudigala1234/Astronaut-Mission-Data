@@ -2,7 +2,7 @@
 
 ### **Overview**
 
-**This repository was created for Professor Gotzler's ENGL 105-075 class in the Fall 2022 semester at the University of North Carolina at Chapel Hill.**
+**This repository was created for Professor Gotzler's ENGL 105-075 class in the Fall 2024 semester at the University of North Carolina at Chapel Hill.**
 
 It contains the [Raw Data](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/Data/raw_data.csv) and the [Archive](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/Data/final_data.csv) of data that was created by manipulating the raw data using Python. 
 
