@@ -10,9 +10,17 @@ This repository also includes the Python Notebook that documents the process for
 
 This repository provides a comprehensive archive that has information about astronauts and the missions they went on.
 
-Information in the archive has the Name, Gender, Birth Year, and Nationality of the astronauts. 
+### **The Information In The Archive**
 
-It also has the Count, Name, Role, Year, and the Duration for each mission.
+- Name
+- Gender
+- Birth Year
+- Nationality
+- Mission Count
+- Mission Name
+- Mission Role
+- Mission Year
+- Mission Duration
 
 ### **Where This Data Is From**
 
