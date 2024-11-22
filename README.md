@@ -26,7 +26,7 @@ This repository provides a comprehensive archive that has information about astr
 
 ### **Source**
 
-This data is from The [CORGIS Dataset Project]([https://link-url-here.org](https://corgis-edu.github.io/corgis/csv/astronauts/)).
+This data is from the [CORGIS Dataset Project]([https://link-url-here.org](https://corgis-edu.github.io/corgis/csv/astronauts/)).
 
 ### **Uses**
 
