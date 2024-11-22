@@ -2,13 +2,15 @@
 
 **This repository was created for Prof. Gotzler's English 105 class in the Fall 2022 semester at the University of North Carolina at Chapel Hill.**
 
-It contains the raw data and the archive of data that was created by manipulating the raw data using Python. This repository also includes the Python Notebook that documents the process for crafting the archive of data from the raw data.
+It contains the raw data and the archive of data that was created by manipulating the raw data using Python. 
+
+This repository also includes the Python Notebook that documents the process for crafting the archive of data from the raw data.
 
 ### **The Purpose Of This Repository**
 
 This repository provides a comprehensive archive that has information about astronauts and the missions they went on.
 
-Information Included:
+Information in the Archive:
 
 - Name
 - Gender
