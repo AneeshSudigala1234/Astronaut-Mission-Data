@@ -4,7 +4,7 @@
 
 **This repository was created for Prof. Gotzler's English 105 class in the Fall 2022 semester at the University of North Carolina at Chapel Hill.**
 
-It contains the [Raw Data](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/Data/raw_data.csv) and the archive of data that was created by manipulating the raw data using Python. 
+It contains the [Raw Data](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/Data/raw_data.csv) and the [Archive](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/Data/final_data.csv) of data that was created by manipulating the raw data using Python. 
 
 This repository also includes the [Python Notebook](https://github.com/AneeshSudigala1234/Astronaut-Mission-Data/blob/main/processdocumentation.ipynb) that documents the process for crafting the archive of data from the raw data.
 
