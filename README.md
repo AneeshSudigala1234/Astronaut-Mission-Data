@@ -12,7 +12,7 @@ This repository provides a comprehensive archive that has information about astr
 
 This data is from The [CORGIS Dataset Project]([https://link-url-here.org](https://corgis-edu.github.io/corgis/csv/astronauts/)).
 
-**What Could This Data Be Used For?**
+### **What Could This Data Be Used For?**
 
 - **Educational Use**: Great for students and teachers that want to learn about Space Exploration.  
 - **Research Insights**: Supports research in data for fields such as Space Science, Sociology, and History.  
