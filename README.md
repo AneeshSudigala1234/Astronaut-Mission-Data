@@ -30,10 +30,10 @@ This data is from the [CORGIS Dataset Project](https://corgis-edu.github.io/corg
 
 ### **Uses**
 
-- **Educational Use**: Great for students and teachers that want to learn about Space Exploration.  
-- **Research Insights**: Supports research in data for fields such as Space Science, Sociology, and History.  
-- **Application Development**: Perfect for developers that want to build tools or visualizations that are related to missions.  
-- **Data Analysis Projects**: Excellent for practicing Data Analysis, Machine Learning, or Data Visualization.
+- Great for students and teachers that want to learn about Space Exploration
+- Supports research in data for fields such as Space Science, Sociology, and History  
+- Perfect for developers that want to build tools or visualizations that are related to missions  
+- Excellent for practicing Data Analysis, Machine Learning, or Data Visualization
 
 ### **Contributors**
 
